@@ -15,7 +15,6 @@ import se.mtg.index.Hit;
  *
  * @author David
  */
-//gradle execute -Pappargs="-elasticurl http://192.168.99.100:9200 -username elastic -password changeme -attr name -value rage"
 public class MtgMain {
 
     public static void main(String[] args) throws Exception {
